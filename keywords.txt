@@ -1,0 +1,23 @@
+#######################################
+# Syntax Coloring Map For RGB_LED
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+RGB_LED	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+setColor	KEYWORD2
+begin	KEYWORD2
+RGBstep	KEYWORD2
+setRGB	KEYWORD2
+readRED	KEYWORD2
+readGREEN	KEYWORD2
+readBLUE	KEYWORD2
+CATHODE	KEYWORD2
+ANODE	KEYWORD2
